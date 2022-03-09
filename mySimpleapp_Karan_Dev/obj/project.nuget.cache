@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pzJobNTmOPGpRk5twkAOPE8kwHswg2PA9g+irCfBVx1v08qgNKhuhl41+7QnPBHUcyHzKIxEZC4aPwRkRIrssQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karand\\Desktop\\Impact_training\\Docker\\mySimpleapp_Karan_Dev\\mySimpleapp_Karan_Dev\\mySimpleapp_Karan_Dev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\karand\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\karand\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\karand\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\karand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\karand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
